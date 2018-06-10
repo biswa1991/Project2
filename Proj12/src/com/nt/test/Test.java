@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("hiiiiii");
+		
+		System.out.println(new sum().sum1(12,12));
 	}
 
 }
